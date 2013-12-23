@@ -120,7 +120,8 @@ class Simulation:
             Point3D(-1,1,1),
             Point3D(1,1,1),
             Point3D(1,-1,1),
-            Point3D(-1,-1,1)
+            Point3D(-1,-1,1),
+            Point3D(2,2,-2,-2)
         ]
         
         #Faces correspond to 4 Point3Ds
