@@ -1,0 +1,10 @@
+testing for the errors in this cube code:
+test 1: errors:
+(Traceback (most recent call last):
+  File "I:\rubiks-cube-led-cube-project\rotating cube ciblet rendition.py", line 49, in <module>
+    class Simulation:
+  File "I:\rubiks-cube-led-cube-project\rotating cube ciblet rendition.py", line 119, in Simulation
+    self.colors = [(255,0,255),(255,0,0),(0,255,0),(0,0,255),(0,255,255),(255,255,0)]
+NameError: name 'self' is not defined)
+test 2: errors:
+
